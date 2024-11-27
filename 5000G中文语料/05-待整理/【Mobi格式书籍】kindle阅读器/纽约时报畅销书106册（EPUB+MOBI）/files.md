@@ -1,0 +1,112 @@
+# 纽约时报畅销书106册（EPUB+MOBI）
+
+## Files
+
+- `F:/5000G电子书\05-待整理\【Mobi格式书籍】kindle阅读器\纽约时报畅销书106册（EPUB+MOBI）\Book and Author Name list.rtf`
+- `F:/5000G电子书\05-待整理\【Mobi格式书籍】kindle阅读器\纽约时报畅销书106册（EPUB+MOBI）\files.txt`
+
+## Subdirectories
+
+- 1- Defence of the Realm The Authorized History of MI5
+- 1- The Hunger Games Series by Suzanne Collins (3 books)
+- 10 - Supernaturally by Kiersten White (Paranormalcy series book 2)
+- 10- The Republican Brain by Chris Mooney
+- 103- The Mind Readers series by Lori Brighton (2 books)
+- 105- The Prisoner of Snowflake Falls by John Lekich
+- 106- 5 Novels by Ryne Douglas Pearson (5 books, non series)
+- 11- Endlessly by Kiersten White (Paranormalcy series book 3)
+- 11-Panic in Level 4 by Richard Preston
+- 111- Royal Brotherhood Trilogy by Sabrina Jeffries (3 books)
+- 12- Slaughterhouse-Five (1969) by Kurt Vonnegut
+- 12- Tune in Tokyo The Gaijin Diaries by Tim Anderson
+- 13- Breakfast of Champions (1973) by Kurt Vonnegut
+- 13- Loose Girl A Memoir of Promiscuity by Kerry Cohen
+- 135- Death By Chocolate by Emma Walker
+- 136- Kalypso Tritagonist by Emma Walker
+- 137-Cold Skin by Herrick Steven
+- 138- The Perfect Play by Jaci Burton
+- 14- A Sociopath Beside Me by Junie Moon
+- 14- Cat's Cradle (1963) by Kurt Vonnegut
+- 15- God Bless You, Mr. Rosewater (1965) by Kurt Vonnegut
+- 15- It's the Middle Class, Stupid!
+- 151 - A Friend of the Family by Lisa Jewell
+- 152 - One-Hit Wonder by Lisa Jewell
+- 153 - Ralph's Party by Lisa Jewell
+- 154- All Souls trilogy by Deborah Harkness (2 books)
+- 156- Gabriel Allon series by Daniel Silva (12 books)
+- 16- Daemon series by Daniel Suarez (2 books)
+- 16- Escape from Camp 14 by Blaine Harden
+- 168-Deep Down by Lee Child (A Jack Reacher Short Story)
+- 169-Criminal by Karin Slaughter
+- 17- Hilarity Ensues by Tucker Max
+- 170-Close Your Eyes by Iris Johansen & Roy Johansen
+- 171-The Next Best Thing by Jennifer Weiner
+- 172-Playing for Keeps by R.L. Mathewson (A Neighbor from Hell #1)
+- 173-The Night Circus by Erin Morgenstern
+- 174-The Sullivans series by by Bella Andre
+- 177-Michael Bennett Series by James Patterson & Michael Ledwidge
+- 18- Theodore Roosevelt Trilogy by Edmund Morris (3 books)
+- 18- Women of the Otherworld series by Kelley Armstrong (13 books)
+- 182-Creole Belle by James Lee Burke
+- 183-Backfire by Catherine Coulter (FBI Thriller #16)
+- 184-Slammed series by Colleen Hoover
+- 186-A Sweethaven Summer by Courtney Walsh (Book 1 in the Sweethaven series)
+- 187-Jack Morgan series by James Patterson and Maxine Paetro
+- 191-Safe Haven by Nicholas Sparks
+- 2- Disco Bloodbath James St. James
+- 21- Unorthodox by Deborah Feldman
+- 22- Lost in Shangri-La by Mitchell Zuckoff
+- 23- Islands of the Damned by R. V. Burgin
+- 24- Parisians- An Adventure History of Paris by Graham Robb
+- 25- THE TYLENOL MAFIA (Revised 2nd Edition) by Scott Bartz
+- 26-Managing Humans 2nd edition By Michael Lopp
+- 27-Dream Team by Jack McCallum
+- 28-How to be a woman by Caitlin Moran
+- 29-Let's Pretend This Never Happened by Jenny Lawson
+- 3- Drink A Cultural History of Alcohol by Iain Gately
+- 31- Where We Belong by Emily Giffin
+- 32- Spindle's End by Robin McKinley
+- 33- Destiny’s Trinities series by Teal Ceagh aka Tracy Cooper 3 books
+- 36- The Bell at Sealey Head by Patricia Mckillip
+- 37- Silently and Very Fast by Catherynne M Valente
+- 38- Pandora's Legions by Christopher Anvil
+- 39- The Strong Cowboys of Wilde series by Chloe Lang(6 books)
+- 4 - Technomancer by B. V. Larson (Unspeakable Things Book 1)
+- 4- Public Enemies by Bryan Burrough
+- 45- Shock Warning by Michael Walsh
+- 46- David Trevellyan series by Andrew Grant (3 books)
+- 49- The Gift of Rain by Tan Twan
+- 5 - Helpless by Daniel Palmer
+- 5 - Outlaw by Angus Donald (Outlaw Chronicles series book 1)
+- 50- The Trouble with Kings by Sherwood Smith
+- 51- Yusuf Khalifa series by Paul Sussman (3 books)
+- 54- The Hidden Oasis by Paul Sussman
+- 55- The Orphan King by Sigmund Brouwer (book 1)
+- 56- Chronicles of the Red King Series by Jenny Nimmo (2 books)
+- 58- Vatta's War series by Elizabeth Moon (5 books)
+- 6 - Holy Warrior by Angus Donald (Outlaw Chronicles series book 2)
+- 6 - The Innocent Man Murder and Injustice in a Small Town By John Grisham
+- 63- Hearts in Darkness by Laura Kaye
+- 64- Rot & Ruin by Jonathan Maberry
+- 65- Last Light Series by Alex Scarrow (2 books)
+- 67- Crown Duel series by Sherwood Smith (2 books)
+- 69- The Corpse With the Silver Tongue by Cathy Ace
+- 7 - King's Man by Angus Donald (Outlaw Chronicles series book 3)
+- 7- The Dead Sea Scrolls Deception by Michael Baigent, Richard Leigh
+- 70- Arctic Rising by Tobias S. Buckell
+- 71- Year Zero by Rob Reid
+- 72- Kill Decision by Daniel Suarez
+- 73- Stained Glass Monsters by Andrea K. H枚st
+- 74- The Last Song by Eva Wiseman
+- 75- Wildwood series by Juliet Marillier (2 books)
+- 77- The Kingdom of Bones by Stephen Gallagher
+- 78- Dragonish Series Book 1 by Stephanie Burke
+- 79- Fair Game by J.J. Massa
+- 8 - Warlord by Angus Donald (Outlaw Chronicles series book 4)
+- 8- The Amateur Barack Obama in the White House by Edward Klein
+- 80- Firebird by Jaycee Clark
+- 81- MacCarrick Brothers Series by Kresley Cole (3 books)
+- 84- Immortals After Dark Series by Kresley Cole [Books 0.5-11] 12 books
+- 9 - Paranormalcy by Kiersten White (Paranormalcy series book 1)
+- 9- Grey Wolf The Escape of Adolf Hitler
+- 96- 7 novels by Andrew Vachss

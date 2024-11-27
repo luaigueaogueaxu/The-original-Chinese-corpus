@@ -1,0 +1,109 @@
+# Modern Library Top 100 Novels
+
+## Files
+
+- `F:/5000G电子书\02-英文原著专区\Modern Library Top 100 Novels\000 list of Modern Library Top 100 Novels.txt`
+- `F:/5000G电子书\02-英文原著专区\Modern Library Top 100 Novels\files.txt`
+
+## Subdirectories
+
+- 1. Ulysses - James Joyce
+- 10. The Grapes of Wrath - John Steinbeck
+- 100. The Magnificient Ambersons - Booth Tarkington
+- 11. Under The Volcano - Malcolm Lowry (pdf)
+- 12. The way of all flesh - Samuel Butler
+- 13. 1984 - George Orwell
+- 14. I, Claudius - Robert Graves
+- 15. To the Lighthouse - Virginia Woolf
+- 16. An American Tragedy - Theodore Dreiser
+- 17. The Heart is a Lonely Hunter - Carson McCullers
+- 18. Slaughterhouse Five - Kurt Vonnegut
+- 19. The Invisible Man - Ralph Ellison
+- 2. The Great Gatsby - F. Scott Fitzgerald
+- 20. Native Son - Richard Wright
+- 21. Henderson the Rain King - Saul Bellow
+- 22. Appointment in Samarra - John O'Hara
+- 23. U.S.A. (trilogy) - John Dos Passos
+- 24. Winesburg, Ohio - Sherwood Anderson
+- 25. A Passage to India - E. M. Forster
+- 26. The Wings of the Dove - Henry James
+- 27. The Ambassadors - Henry James
+- 28. Tender is the Night - F. Scott Fitzgerald
+- 29. The Studs Lonigan Trilogy -  James T. Farrell
+- 3. A portrait of the artist as a young man - James Joyce
+- 30. The Good Soldier - Ford Madox Ford
+- 31. Animal Farm - George Orwell
+- 32. The Golden Bowl - Henry James
+- 33. Sister Carrie - Theodore Dreiser
+- 34. A Handful of Dust - Evelyn Waugh
+- 35. As I Lay Dying - William Faulkner
+- 36. All the King's Men -  Robert Penn Warren
+- 37. The Bridge of San Luis Rey - Thornton Wilder
+- 38. Howards End - E. M. Forster
+- 39. Go Tell It on the Mountain - James Baldwin
+- 4. Lolita - Vladimir Nabokov
+- 40. The Heart of the Matter - Graham Greene
+- 41. The Lord of The Flies - William Golding
+- 42. Deliverance - James Dickey
+- 43. A Dance to the Music of Time (series) - Anthony Powell
+- 44. Point Counter Point - Aldous Huxley
+- 45. The Sun Also Rises - Ernest Hemingway
+- 46. The Secret Agent - Joseph Conrad
+- 47. Nostromo - Joseph Conrad
+- 48. The Rainbow - D. H. Lawrence
+- 49. Women in Love - D. H. Lawrence
+- 5. Brave New World - Aldous Huxley
+- 50. Tropic of Cancer - Henry Miller
+- 51. The Naked and the Dead - Norman Mailer
+- 52. Portnoy's Complaint - Philip Roth
+- 53. Pale Fire - Vladimir Nabokov
+- 54. Light in August - William Faulkner
+- 55. On the Road - Jack Kerouac
+- 56. The Maltese Falcon - Dashiell Hammett
+- 57. Parade's End by Ford Madox Ford
+- 58. The Age of Innocence - Edith Wharton
+- 59. Zuleika Dobson - Max Beerbohm
+- 6. The Sound and the Fury - William Faulkner
+- 60. The Moviegoer - Walker Percy
+- 61. Death Comes for the Archbishop - Willa Cather
+- 62. From Here to Eternity - James Jones
+- 63. The Wapshot Chronicles - John Cheever
+- 64. Catcher In The Rye - J. D. Salinger
+- 65. A Clockwork Orange - Anthony Burgess
+- 66. Of Human Bondage - W. Somerset Maugham
+- 67. Heart of Darkness - Joseph Conrad
+- 68. Main Street - Sinclair Lewis
+- 69. The House of Mirth - Edith Wharton
+- 7. Catch 22 - Joseph Heller
+- 70. The Alexandria Quartet - Lawrence Durrell
+- 71. A High Wind in Jamaica - Richard Hughes
+- 72. A House for Mr Biswas - V. S. Naipaul
+- 73. The Day of the Locust - Nathanael West
+- 74. A Farewell to Arms - Ernest Hemingway
+- 75. Scoop - Evelyn Waugh
+- 76. The Prime of Miss Jean Brodie - Muriel Spark
+- 77. Finnegans Wake - James Joyce
+- 78. Kim - Rudyard Kipling
+- 79. A Room with a View - E. M. Forster
+- 8. Darkness at Noon - Arthur Koestler
+- 80. Brideshead Revisited - Evelyn Waugh
+- 81. The Adventures of Augie March - Saul Bellow
+- 82. Angle of Repose - Wallace Stegner
+- 83. A Bend in the River - V. S. Naipaul
+- 84. The Death of the Heart by Elizabeth Bowen
+- 85. Lord Jim - Joseph Conrad
+- 86. Ragtime - E. L. Doctorow
+- 87. The Old Wives' Tale - Arnold Bennett
+- 88. The Call of the Wild - Jack London
+- 89. Loving - Henry Green
+- 9. Sons and Lovers - D.H. Lawrence
+- 90. Midnight's Children - Salman Rushdie
+- 91. Tobacco Road by Erskine Caldwell
+- 92. Ironweed - William Kennedy
+- 93. The Magus  - John Fowles
+- 94. Wide Sargasso Sea - Jean Rhys
+- 95. Under The Net - Iris Murdoch
+- 96. Sophie's Choice - William Styron
+- 97. The Sheltering Sky - Paul Bowles
+- 98. The Postman Always Rings Twice - James M. Cain
+- 99. The Ginger Man - J. P. Donleavy

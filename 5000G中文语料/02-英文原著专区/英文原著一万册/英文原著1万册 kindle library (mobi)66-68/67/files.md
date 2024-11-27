@@ -1,0 +1,894 @@
+# 67
+
+## Files
+
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Miss Billie's Decision.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Miss or Mrs.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\MOGARZEA.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Mohammed Ali and His House.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Money and Trade Considered.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Money Answers All Things.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Monsieur Beaucaire.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Moral Emblems.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\More Bab Ballads.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\More Letters of Charles Darwin Volume I.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Mother.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Mr. Crewe's Career.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Mrs. Korner Sins Her Mercies.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\My Aunt Margaret's Mirror.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\My Discovery of England.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\My Garden Acquaintance.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\My Lady Ludlow.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\MY LADY'S MONEY.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\My Memories of Eighty Years.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\My Ten Years' Imprisonment.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Myths and Myth-Makers.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Nada the Lily(百合娜达).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Nana(娜娜).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Native Life in South Africa.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Never Again.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\New Arabian Nights(新天方夜潭).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\New Arabian Nights.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\New Collected Rhymes.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\New Grub Street.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\New Poems.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\New Thought Pastels.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\New York.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\North America-1.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\North America-2.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Notes.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Novel Notes.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\NUMA POMPILIUS.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\O SOLITUDE! IF I MUST WITH THEE DWELL.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ODE ON INDOLENCE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ODE ON MELANCHOLY.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ODE TO PSYCHE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ODE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Oedipus the King.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Of Interest.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Of Money.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Of Refinement in the Arts.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Of Taxes.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Of the Balance of Trade.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Of the Jealousy of Trade.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Of The Nature of Things.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Off on a Comet.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Okewood of the Secret Service.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Old Christmas.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Old Friends.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Old Indian Legends.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Oldport Days.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\OLE THE TOWER-KEEPER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\OLE-LUK-OIE, THE DREAM-GOD.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\OLIVER TWIST(雾都孤儿).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON A DREAM.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\On Books and the Housing of Them.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON DREAMS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON FIRST LOOKING INTO CHAPMAN'S HOMER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON GENERATION AND CORRUPTION.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\On Horsemanship.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON INTERPRETATION.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON LONGEVITY AND SHORTNESS OF LIFE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON MEMORY AND REMINISCENCE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\On Our Selection.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\On Public Credit.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\On Revenues.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON SITTING DOWN TO READ KING LEAR ONCE AGAIN.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON SLEEP AND SLEEPLESSNESS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\On The Firing Line.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON THE GAIT OF ANIMALS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON THE HEAVENS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON THE MOTION OF ANIMALS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\On the Ruin of Britain.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON THE SOUL.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\On the Track(在路上).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON VISITING THE TOMB OF BURNS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ON YOUTH AND OLD AGE, ON LIFE AND DEATH, ON BREATHING.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\One of Ours.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Options.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Orations.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ORESTES.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Orpheus in Mayfair and Other.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Oscar Wilde Miscellaneous.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Other People's Money.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Other Things Being Equal.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\OTHO.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Our American Cousin.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\OUR AUNT.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Our Nig.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Our Village.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\OVER THE HILL AND OVER THE DALE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Oxford.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Pagan and Christian Creeds.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Pageant of Summer.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Paradiso.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Passages from an Old Volume of Life.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Pathology of Lying.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Paul and Virginia.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\pc1.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\pc2.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Peace.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\PELOPIDAS.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\PEN,PENCIL AND POISON.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Penguin Island.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\People Out of Time.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Personal Memoirs-1.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Personal Memoirs-2.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Peter Pan.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Phaedra.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Phantasmagoria and Other Poems.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Pharsalia.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\PHILOPOEMEN.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Philosophy of History.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Philosophy of Nature.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\PHOCION.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Phyllis of Philistia.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Pigs is Pigs.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Pioneers of the Old Southwest.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\plays.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Plutus.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Poems of Henry Timrod.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Poems of Rupert Brooke.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Poems on Various Subjects.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\POEMS- WILLIAMS BUTLER YEATS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Poems-1.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Poems-2.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Poems-Volume 1(资本论1).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Poems-Volume 2(资本论2).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Poems-Volume 3(资本论3).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Poems.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\POETICS.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Political Economy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Polyuecte.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Ponkapog Papers.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Poor and Proud.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\POULTRY MEG'S FAMILY.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\PREFACE OF WILLIAM CAXTON.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\preface.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Prester John.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Principles of Human Knowledge.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Prometheus Bound.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Prophets and Kings.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Purgatorio.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Put Yourself in His Place.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Queen Victoria.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Queer Little Folks.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\R. F. Murray.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Ramona.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Rasselas, Prince of Abyssinia.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Recollections and Letters of Lee.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Record of Buddhistic Kingdoms.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Records of a Family of Engineers.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Redgauntlet.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Reflections on the Formation and Distribution of wealth.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Religio Medici.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Remember the Alamo.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Reminiscences of Tolstoy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Repertory of the Comedie Humaine-1.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Repertory of the Comedie Humaine-2.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Representative Government.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Resurrection(复活).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Returning Home.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Rezanov.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Riders of the Purple Sage.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Riders to the Sea.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Rienzi.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Rise and Fall of Cesar Birotteau.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Roads of Destiny.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Robbery Under Arms.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Robert Louis Stevenson.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ROBINSON CRUSOE(鲁滨逊漂流记).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\ROBINSON CRUSOE-2(鲁滨逊漂流记续集).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Romantic Ballads.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Rose O' the River.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Round the Sofa.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Roundabout Papers.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Royalty Restored.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Rubaiyat of Omar Khayyam.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Running a Thousand Miles for Freedom.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Rupert of Hentzau.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\RUTH(露丝).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Saint George for England.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Samantha at Saratoga.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Samuel Brohl & Company.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Samuel Butler-A Sketch.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Sarrasine.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Sartor Resartus.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Scenes from a Courtesan's Life.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\SCHIPPEITARO.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Second Treatise of Government.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Select Poems of Sidney Lanier.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Selected Writings of guy de maupassant(莫伯桑作品选).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Selections from the Speeches and Writings of Edmund Burke.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Seven Discourses on Art.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Seventeen.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\She Stoops To Conquer.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\SHE WAS GOOD FOR NOTHING.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Shelley.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Shorter Logic.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Signs of Change.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Sir Humphrey Gilbert's Voyage to Newfoundland.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Sir Thomas More.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Sister Carrie(嘉莉妹妹).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Sketches in Lavender, Blue and Green.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\SLEEP AND POETRY.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Smoke Bellew.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\SOME COMMENDATORY VERSES.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Some Considerations of the Lowering of Interest.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\SOMETHING.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Song and Legend From the Middle Ages.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Songs, Merry and Sad.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Sonnets from the Portuguese.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Soul of a Bishop.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\SOUP FROM A SAUSAGE SKEWER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Speaking of Operations.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Spoon River Anthology.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\STAN BOLOVAN.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\STANZAS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Steep Trails.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Stepping Heavenward.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Steps to Christ.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Stories from Pentamerone.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Stories of a Western Town.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Stories Of The Supernatural.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Strife.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Style.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Swan Song.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\SWITZERLAND, THE CRADLE OF LIBERTY.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Sylvie and Bruno.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\SYMPOSIUM.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Table-Talk, Essays on Men and Manners.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Tacitus on Germany.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Tales From Shakespeare.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TAMING THE BICYCLE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Tanglewood Tales.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TARTARIN OF TARASCON.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TARZAN of the Apes(人猿泰山).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Tarzan the Terrible.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Tattine.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Tea-table Talk.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Absentee.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Advancement of Learning.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Adventures of Jimmie Dale.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ADVENTURES OF PINOCCHIO(木偶奇遇记).TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ADVENTURES OF PINOCCHIO.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ADVENTURES OF SHERLOCK HOLMES(福尔摩斯探案集).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Adventures.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Aeroplane Speaks.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Age of Big Business.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Age of Invention.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Agony Column.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Altar of the Dead.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Altruist in Politics.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Amateur Cracksman.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The American Republic.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Americanization of Edward Bok.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ANGEL.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Annals of the Parish.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Anti-Slavery Crusade.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Apology.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Arabian Nights.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Argonautica.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Armies of Labor.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Army of the Cumberland.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ATHENIAN CONSTITUTION.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Augsburg Confession.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE AUTHOR'S PREFACE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Autobiography of a Quack.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Bab Ballads.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Ballad of the White Horse.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Beast in the Jungle.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Bedford-Row Conspiracy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE BEE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE BEETLE WHO WENT ON HIS TRAVELS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Beggar's Opera.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE BELL-DEEP.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE BELL.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Bickerstaff-Partridge Papers.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE BIRD OF POPULAR SONG.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Birds' Christmas Carol.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Birds.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE BISHOP OF BORGLUM AND HIS WARRIORS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Black Death and The Dancing Mania.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Black Dwarf.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Black Tulip(黑郁金香).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Blithedale Romance.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Blue Flower.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Book of Nonsense.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Book of Tea.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE BOTTLE NECK.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Boy Captives.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Boys' Life of Mark Twain.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE BOYS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE BRAVE TIN SOLDIER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Brick Moon.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE BUCKWHEAT.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Burial of the Guns.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE BUTTERFLY.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Caged Lion.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Call of the Canyon.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Canadian Dominion.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Canterbury Tales.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Captives.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Case of the Golden Bullet.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Case of The Pocket Diary Found in the Snow.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Cash Boy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Castle of Otranto.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Champdoce Mystery.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Chateau of Prince Polignac.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Chignecto Isthmus And Its First Settlers.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE CHILD FROM EGG.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE CHILD IN THE GRAVE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Chinese Nightingale and Other Poems.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Choir Invisible.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Chouans.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The City of Domes.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The City of Dreadful Night.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The City of the Sun.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Civilization of the Renaissance in Italy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Cleveland Era.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Clever Woman of the Family.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Clouds.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Club of Queer Trades.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Clue of the Twisted Candle.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Collection of Antiquities.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Coming Conquest of England.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Coming Race.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Commission in Lunacy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Common Law.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Commonwealth of Oceana.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Complete Angler.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Complete Writings-1.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Complete Writings-2.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Complete Writings-3.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Complete Writings-4.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE CONCEITED APPLE-BRANCH.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE CONE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Conflict.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Contrast.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Copy-Cat.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Cost.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Count of Monte Cristo(基督山伯爵).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Count's Millions.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Counterpane Fairy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Country Doctor.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE COUNTRY OF THE BLIND.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Country of the Pointed Firs.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Crime of Sylvestre Bonnard.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Crimson Fairy Book.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE CRITIC AS ARTIST.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Critique of Judgement.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Critique of Practical Reason.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Crossing.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Crowd.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Crown of Thorns.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Cruise of the Cachalot.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Crystal Stopper.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Culprit Fay and Other Poems.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE CYCLOPS.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE DAISY.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Danish History.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE DARNING-NEEDLE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Daughter of an Empress.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Dawn of a To-morrow.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE DAY IS GONE, AND ALL ITS SWEETS ARE GONE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE DECAMERON(十日谈).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE DECAY OF LYING.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Deliverance.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Depot Master.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Deputy of Arcis.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Description of Wales.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Deserted Woman.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Desire of Ages.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE DEVOTED FRIEND.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE DIAMOND MAKER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Diary of a Man of Fifty.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Diary of a Nobody.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Diary of Samuel Pepys.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Discovery of The Source of the Nile.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Divine Comedy(神曲).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Doctor.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Dominion of the Air.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Doom of the Griffiths.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE DOOR IN THE WALL.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Dore Lectures on Mental Science.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Dove in the Eagle's Nest.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE DROP OF WATER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE DRYAD.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Duchesse de Langeais.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE DUMB BOOK.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Dust.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Economist.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Education of the Child.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Efficiency Expert.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Eighteenth Brumaire of Louis Bonaparte.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Elements of Law Natural and Politic.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ELF OF THE ROSE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ELFIN HILL.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Elixir of Life.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Elusive Pimpernel.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE EMPEROR'S NEW SUIT.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Enchanted Island of Yew.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ENCHANTED KNIFE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ENVIOUS NEIGHBOUR.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Epic of Kings.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Errand Boy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Eureka Stockade.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE EVE OF SAINT MARK.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Evolution of Modern Medicine.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Exiles.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Experiences of a Bandmaster.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Expression of Emotion in Man and Animals.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE FAIRY OF THE DAWN.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Fall of the House of Usher.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Fall of Troy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE FARM-YARD COCK AND THE WEATHER-COCK.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Fathers of the Constitution.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE FIGURE IN THE CARPET.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Financier.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE FINEST LIAR.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE FIR TREE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Firm of Nucingen.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE FLAX.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE FLYING TRUNK.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Flying U's Last Stand.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Foreigner.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Fortune Hunter.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Fortunes of Oliver Horn.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Foundations of Personality.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Four Horsemen of the Apocalypse.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Four Million.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Friendly Road.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE FROG.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE GARDEN OF PARADISE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Garden Party.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Gathering of Brother Hilarius.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Georgics.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE GIRL WHO TROD ON THE LOAF.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE GIRL.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE GOAT'S EARS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE GOBLIN AND THE HUCKSTER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Gold Bag.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Golden Age.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Golden Asse.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Golden Bough.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Golden Dog.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Golden Fleece.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Golden Road.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Golden Threshold.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE GOLDEN TREASURE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE GOLOSHES OF FORTUNE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Good Soldier.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Goodness of St. Rocque and Other Stories.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Governess.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Grand Babylon Hotel.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Grand Canyon of Arizona.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE GRATEFUL PRINCE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Great Big Treasury of Beatrix Potter.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Great God Pan.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Greatness of Cities.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Green Mummy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Grey Brethren.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Guardian Angel.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Guns of Bull Run.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Half-Brothers.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE HAPPY FAMILY.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE HAPPY PRINCE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE HEADLESS DWARFS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE HERACLEIDAE.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Heritage of the Desert.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Heroes.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Hispanic Nations of the New World.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The History and Practice of the Art of Photography.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The History of Caliph Vathek.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE HISTORY OF DWARF LONG NOSE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The History of John Bull.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The History of the Common Law of England.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The History of the Telephone.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE HISTORY.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The House Behind The Cedars.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The House of Life.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The House of the Wolf.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The House of the Wolfings.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Human Comedy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Hunchback of Notre Dame.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Hungry Stones And Other Stories.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Hunting of the Snark.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ICE MAIDEN.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Idea of Justice in Political Economy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Idiot(白痴).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ILIAD(伊利亚特).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Illustrious Gaudissart.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Illustrious Prince.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Innocence of Father Brown.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Iron Puddler.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Japanese Twins.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE JEWISH MAIDEN.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Jimmyjohn Boss and Other Stories.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE JUMPER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The King of the Golden River.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Kingdom of Love and Other Poems.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Kingdom of the Blind.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Knights.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Lady From The Sea.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Lady of Lyons.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Lady of the Lake.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Lake Gun.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Land of Footprints.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Land of Little Rain.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Land of the Changing Sun.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Last Chronicle of Barset.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE LAST DREAM OF THE OLD OAK.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Last of the Plainsmen.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE LAST PEARL.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Last Stetson.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Library.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life and Adventures of Baron Trenck-1.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life and Adventures of Baron Trenck-2.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life and Adventures of Santa Clause.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life and Death of Cormac the Skald.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life and Letters-1.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life and Letters-2.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life and Opinions of Tristram Shandy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life and Perambulations of a Mouse.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life of Charlotte Bronte-1.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life of Charlotte Bronte-2.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life of Christopher Columbus.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life of Francis Marion.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life of General Francis Marion.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life of George Borrow.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life of Horatio Lord Nelson.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life of John Bunyan.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life of Sir John Oldcastle.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life of Stephen A. Douglas.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Life of William Carey.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Lilac Fairy Book.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Lily of the Valley(幽谷百合).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Little Duke.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE LITTLE ELDER-TREE MOTHER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Little Lame Prince.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE LITTLE MATCH-SELLER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE LITTLE MERMAID.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Little Shepherd of Kingdom Come.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Lodger.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE LORD OF THE DYNAMOS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Lost City.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Lost Continent.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Love Affairs Of A Bibliomaniac.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Love-Chase.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE LOVELIEST ROSE IN THE WORLD.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE LUTE PLAYER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Mad King.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Magic Skin(驴皮记).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE MAIDEN WITH HELMET.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE MAIL-COACH PASSENGERS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Maintenance of Free Trade.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Major.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Malay Archipelago-1.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Malay Archipelago-2.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Malefactor.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Man against the Sky.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Man Between.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Man from Snowy River.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Man in the Iron Mask(铁面人).htm.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Man Versus the State.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Man Who Knew Too Much.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Man Who Was Afraid.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Man Who Was Thursday.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Marriages.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE MARSH KING'S DAUGHTER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Marvelous Land of Oz.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Masque of the Red Death.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Master Key.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Meditations.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Memoirs of Cardinal de Retz.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Memoirs of General the Baron de Marbot.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Memoirs of Louis.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Memoirs of Madame de Montespan.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Memoirs of Marguerite de Valois.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Memoirs of Marie Antoinette.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Memoirs of the Louis XIV. and the Regency.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Memoirs of Victor Hugo.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE MEN OF FORTY-MILE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Mercantile System and its Historical Significance.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Merry Adventures of Robin Hood(罗宾汉奇遇记).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Merry Adventures of Robin Hood.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Metal Monster.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE METAL PIG.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Middle Class Gentleman.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Midnight Queen.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE MILLER'S DAUGHTER.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Miracle Mongers.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Miscellaneous Writings and Speeches-1.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Miscellaneous Writings and Speeches-2.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Miscellaneous Writings and Speeches-3.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE MONEY-BOX.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Monk(僧侣).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE MONKEY AND JELLY-FISH.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Monster Men.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Moravians in Georgia.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Mountains.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Movements and Habits of Climbing Plants.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Mysteries of Udolpho.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Mysterious Island.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Mystery of Orcival.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Mystery of the Yellow Room.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Nabob.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Narrative of Sojourner Truth.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Natural History of Selborne.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Naturalist on the River Amazons.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Nature of Rent.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE NEIGHBOURING FAMILIES.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE NIGHTINGALE AND THE ROSE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE NIGHTINGALE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE NINE PEA-HENS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Ninth Vibration.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The North American Species of.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE NUNDA.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Oakdale Affair.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ODYSSEY(奥德赛).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE OLD BACHELOR'S NIGHTCAP.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Old Bachelor.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE OLD CHURCH BELL.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE OLD GRAVE-STONE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE OLD HOUSE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Old Merchant Marine.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE OLD STREET LAMP.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Oregon Trail.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Origin and Nature of Emotions.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE ORIGIN OF SPECIES(物种起源).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Origin of the Distinction of Ranks.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Outlet.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Parson's Daughter of Oxney Colne.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Passing of the Frontier.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Path Of Empire.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Path of the King.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Paths of Inland Commerce.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Patrol of the Sun Dance Trail.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE PEA BLOSSOM.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE PEN AND THE INKSTAND.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Persians.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Peterkin Papers.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Pharisee And The Publican.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Philobiblon.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE PHILOSOPHER'S STONE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE PHOENIX BIRD.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Pilgrims of Hope.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Pit.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Poems of Goethe(歌德诗集).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE POET- A FRAGMENT.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Point of View.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Poisoned Pen.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Polity of the Athenians and the Lacedaemonians.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Pool in the Desert.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Poor Clare.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE PORTER'S SON.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE PORTUGUESE DUCK.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Price She Paid.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE PRINCE TO SEE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Prince.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE PRINCESS AND THE PEA.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Princess of Cleves.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Princess.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE PRINCESS1.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Prisoner of Zenda.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Private Memoirs and Confessions of A Justified Sinner.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Private Papers of Henry Ryecroft.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Provost.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE PSYCHE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Puppet Crown.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE PUPPET-SHOW MAN.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Pursuit of the House-Boat.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Puzzle of Dickens's Last Plot.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Quaker Colonies.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Quest of the Golden Girl.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE RACES.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Ragged Trousered Philanthropists.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Red Acorn.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Red Man's Continent.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Red Seal.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE RED SHOES.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Religion of Babylonia and Assyria.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE REMARKABLE ROCKET.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Research Magnificent.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Rifle and Hound in Ceylon.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Rime of the Ancient Mariner.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Rosary.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Rose and the Ring(玫瑰与戒指).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Ruling Passion.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SAUCY BOY.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Scapegoat.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The School For Scandal.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Scottish Philosophy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Scouts of the Valley.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Secret Garden.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Secret of the Night.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Secret Places of the Heart.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SELFISH GIANT.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Sequel of Appomattox.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Seven Against Thebes.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SEVENTH LETTER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Seventh Man.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SHADOW.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Shape of Fear.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SHEPHERD'S STORY OF THE BOND OF FRIENDSHIP.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SHEPHERDESS AND THE SHEEP.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SHIRT-COLLAR.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Silent Bullet.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SILVER SHILLING.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Sisters' Tragedy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SIX ENNEADS.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Sleuth of St. James Street.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Slowcoach.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Smalcald Articles.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SNAIL AND THE ROSE-TREE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SNOW MAN.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SNOW QUEEN IN SEVEN STORIES.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SNOWDROP.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SON OF TARZAN.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SON OF THE WOLF.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Song Book of Quong Lee of Limehouse.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Song of Roland.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Sorrows of Young Werther(少年维特的烦恼).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Sorrows of Young Werther.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Soul of the Far East.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Spell of Egypt.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Spirit of Laws.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Sportsman.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE STAR.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Stokesley Secret.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE STORKS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE STORM SHAKES THE SHIELD.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Story of a Bad Boy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE STORY OF A GAZELLE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE STORY OF A MOTHER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE STORY OF HALFMAN.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE STORY OF HASSEBU.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Story of Little Black Sambo.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Story of Mankind.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE STORY OF THE WIND.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE STORY OF THE YEAR.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE STORY OF THREE BEGGARS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Story of Wellesley.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SUNBEAM AND THE CAPTIVE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SUPPLIANTS.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Surprising Adventures of Baron Munchausen.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SWAN'S NEST.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE SWINEHERD.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Symposium.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Task and Other Poems.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Thesmophoriazusae.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Thirty-nine Steps(三十九级台阶).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE THISTLE'S EXPERIENCES.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE THORNY ROAD OF HONOR.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Three Musketeers(三剑客).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE THREE PRINCES.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Tin Woodman of Oz.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE TINDER-BOX.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Titan.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE TOAD.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE TOP AND BALL.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Touchstone.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Trachiniae.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE TRAVELLING COMPANION.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Trees of Pride.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Trial.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Trojan Women.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The True Story of Christopher Columbus.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE TRUTH OF MASKS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE TWO FROGS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE UGLY DUCKLING.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Ultimate Standard of Value.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Underground City.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE UNDERGROUND WORKERS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The University of Hard Knocks.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Unknown Guest.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Unseen World and Other Essays.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Use and Need of the Life of Carrie A. Nation.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Valet's Tragedy and Other Stories.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Valiant Runaways.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Valley of the Moon(月亮谷).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Vested Interests and the Common Man.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Vicar of Wakefield.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Voice.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Voyages of Doctor Dolittle.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Wars of the Jews.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Wasps.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Water-Babies.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Way to Peace.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Ways of Men.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Well of the Saints.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Wheels of Chance.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The White People.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE WHITE SILENCE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE WICKED PRINCE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Wife and Other Stories.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE WILD SWANS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE WILL-O-THE WISP IS IN THE TOWN, SAYS THE MOOR WOMAN.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE WINDMILL.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Wisdom of Father Brown.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Woman in the Alcove.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Women of the French Salons.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Yates Pride.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\The Yellow Wallpaper.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THE YOUNG MAN.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THEAETETUS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Theodore Roosevelt.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\THERE IS NO DOUBT ABOUT IT.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\This Side of Paradise.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Thoughts on Man.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Thre Death of Olivier Becaille.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Three Elephant Power.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Through Russia.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Thus Spake Zarathustra.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Till He Come.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TIMAEU.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TO AILSA ROCK.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\To Have and To Hold.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TO HOMER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TO ONE WHO HAS BEEN LONG IN CITY PENT.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TO SLEEP.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\to the reader.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TO- ( WHAT CAN I DO TO DRIVE AWAY).TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Tom Brown's Schooldays.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Tom Grogan.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Tracks of a Rolling Stone.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TRANSLATED FROM RONSARD.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TRANSLATOR'S PREFACE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Travels in England.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Travels Through France And Italy.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Treatise on Taxes and Contributions.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Twenty Years After(二十年后).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TWO BROTHERS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TWO IN A SACK.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\TWO MAIDENS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Two Penniless Princesses.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Two Poets.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Two Years Before the Mast.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Uncle Remus.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Uncles Josh's Punkin Centre Stories.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\UNDER THE WILLOW-TREE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Up From Slavery.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Utilitarianism.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Valerius Terminus.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\VANITY FAIR(名利场).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Vikram and the Vampire.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\vill1.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\vill2.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\vill3.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\VIRGILIUS THE SORCERER.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Virgin Soil.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Volcanic Islands.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\volume01.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\volume02.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\volume03.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Voyage of The Paper Canoe.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Voyages in Search of the North-West Passage.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Walking.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\WAR AND PEACE(战争与和平).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Washington and his Comrades in Arms.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\We Two.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Westward Ho.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\What is Property.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\WHAT ONE CAN INVENT.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\WHAT THE MOON SAW.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\WHAT THE OLD MAN DOES IS ALWAYS RIGHT.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\WHEN I HAVE FEARS THAT I MAY CEASE TO BE.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\White Lies.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Who Cares.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\WHY DID I LAUGH TO-NIGHT, NO VOICE WILL TELL.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Why Go to College.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\WILD FLOWERS.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Wilhelm Tell.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\WILLIAM DEAN HOWELLS.TXT`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\William Ewart Gladstone.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\William the Conqueror.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Windsor Castle.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Winesburg,Ohio.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Within an Inch of His Life.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Within the Law.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Wolfville Days.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Woman and Labour.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\WUTHERING HEIGHTS(呼啸山庄).txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\Young Adventure.txt`
+- `F:/5000G电子书\02-英文原著专区\英文原著一万册\英文原著1万册 kindle library (mobi)66-68\67\files.txt`
