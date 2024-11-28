@@ -1,0 +1,84 @@
+# Base
+
+## Files
+
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ApplicationWindowStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ApplicationWindowStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\BasicTableViewStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\BasicTableViewStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\BusyIndicatorStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\BusyIndicatorStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ButtonStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ButtonStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\CalendarStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\CalendarStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\CheckBoxStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\CheckBoxStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\CircularButtonStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\CircularButtonStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\CircularGaugeStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\CircularGaugeStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\CircularTickmarkLabelStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\CircularTickmarkLabelStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ComboBoxStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ComboBoxStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\CommonStyleHelper.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\CommonStyleHelper.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\DelayButtonStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\DelayButtonStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\DialStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\DialStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\FocusFrameStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\FocusFrameStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\GaugeStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\GaugeStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\GroupBoxStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\GroupBoxStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\HandleStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\HandleStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\HandleStyleHelper.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\HandleStyleHelper.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\MenuBarStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\MenuBarStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\MenuStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\MenuStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\PieMenuStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\PieMenuStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ProgressBarStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ProgressBarStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\RadioButtonStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\RadioButtonStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ScrollViewStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ScrollViewStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\SliderStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\SliderStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\SpinBoxStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\SpinBoxStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\StatusBarStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\StatusBarStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\StatusIndicatorStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\StatusIndicatorStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\SwitchStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\SwitchStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\TableViewStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\TableViewStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\TabViewStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\TabViewStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\TextAreaStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\TextAreaStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\TextFieldStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\TextFieldStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ToggleButtonStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ToggleButtonStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ToolBarStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ToolBarStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ToolButtonStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\ToolButtonStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\TreeViewStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\TreeViewStyle.qmlc`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\TumblerStyle.qml`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\qml\QtQuick\Controls\Styles\Base\TumblerStyle.qmlc`
+
+## Subdirectories
+
+- images

@@ -1,0 +1,57 @@
+# qtwebengine_locales
+
+## Files
+
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\am.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\ar.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\bg.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\bn.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\ca.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\cs.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\da.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\de.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\el.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\en-GB.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\en-US.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\es-419.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\es.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\et.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\fa.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\fi.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\fil.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\fr.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\gu.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\he.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\hi.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\hr.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\hu.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\id.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\it.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\ja.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\kn.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\ko.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\lt.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\lv.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\ml.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\mr.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\ms.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\nb.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\nl.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\pl.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\pt-BR.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\pt-PT.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\ro.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\ru.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\sk.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\sl.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\sr.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\sv.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\sw.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\ta.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\te.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\th.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\tr.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\uk.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\vi.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\zh-CN.pak`
+- `F:/中文语料库/【01】读秀\读秀 1.0\读秀补充库（REPEAT）\数据014\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_解压前退出杀毒软件\旺角卡门_v6.3_主程序\PyQt5\Qt5\translations\qtwebengine_locales\zh-TW.pak`
