@@ -1,0 +1,101 @@
+# 译文名著精选 上海译文出版社 96本 azw3
+
+## Files
+
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\一九八四 (译文名著精选) - 乔治·奥威尔.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\一千零一夜(译文名著精选) - 方平.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\三个火枪手 (译文名著精选) - 大仲马(Alexandre Dumas).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\丧钟为谁而鸣(译文名著精选) - 欧内斯特·海明威(Ernest Hemingway)(1).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\九三年 (译文名著精选) - 雨果(Victor Hugo).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\乱世佳人(套装上下册) (译文名著精选) - 玛格丽特·米切尔 (Margaret Mitchell).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\了不起的盖茨比(译文名著精选) - F.S.菲茨杰拉德(F.S.Fitzgerald).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\伊利亚随笔选(译文名著精选) - 查尔斯·兰姆(Charles Lamb).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\伊索寓言(译文名著精选) - 伊索(Aesop).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\傲慢与偏见 (译文名著精选) - 简•奥斯丁(Jane Austen).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\儿子与情人 (译文名著精选) - D·H·劳伦斯(D.H.Lawrence).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\八十天环游地球(译文名著精选) - 儒勒·凡尔纳(Jules Verne).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\到灯塔去 (译文名著精选) - 弗吉尼亚·伍尔夫(Virginia Woolf).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\前夜•父与子(译文名著精选) - 伊凡·谢尔盖耶维奇·屠格涅夫(Ivan Sergeevich Turgeneve).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\剧院魅影(译文名著精选) (译文名著文库) - 加斯通·勒鲁 (Caston Leroux).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\动物农场 (译文经典) - 乔治•奥威尔(George Orwell).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\包法利夫人(译文名著精选) - 居斯达夫·福楼拜(Gustave Flaubert).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\十日谈 (译文名著精选) - 卜伽丘(Giovanni Boccaccio).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\卡拉马佐夫兄弟(套装上下册) (译文名著精选) - 陀思妥耶夫斯基.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\危险的关系(译文名著精选) - 肖德洛·德·拉克洛(Choderlos de Laclos).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\双城记 (译文名著精选) - 狄更斯.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\变形记_卡夫卡中短篇小说集(译文名著精选) - 弗兰茨·卡夫卡 (Franz Kafka).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\变色龙 (译文名著精选) - 契诃夫.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\名利场(套装上下册) (译文名著精选) - W.M.萨克雷 (W.M.Thackeray).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\呼啸山庄 (译文名著精选) - 艾米莉·勃朗特 (Emily Bronte).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\哈克贝里•芬历险记 (译文名著精选) - 马克·吐温(Mark Twain).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\嘉莉妹妹(译文名著精选) - 西奥多·德莱塞 (Theodore Dreiser).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\坎特伯雷故事 (译文名著精选) - 杰弗利·乔叟(Geoffrey Chaucer).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\城堡 (译文名著精选) - 卡夫卡(Kafka.F.).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\培根随笔全集(译文名著精选) - 弗兰西斯·培根 (Francis Bacon).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\基督山伯爵(套装上下册) (译文名著精选) - 大仲马(Alexandre Dumas).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\堂吉诃德(套装上下册) (译文名著精选) - 米盖尔·德·塞万提斯·萨阿维德拉 (Miguel de Cervantes Saavedra).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\复活(译文名著精选) - 列夫·托尔斯泰 (Leo Tolstoy).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\夜色温柔(译文名著精选) - F.S.菲茨杰拉德(Francis Scott Fitzgerald).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\大卫·考坡菲(套装上下册) (译文名著精选) - 查尔斯·狄更斯 (Charles Dickens).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\大师和玛格丽特 (译文名著精选) - 米·布尔加科夫.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\太阳照常升起(译文名著精选) - 欧内斯特·海明威(Ernest Hemingway).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\失乐园(译文名著精选) - 约翰·弥尔顿(John Milton).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\娜娜 (译文名著文库) - 爱弥尔·左拉(Emile Zola).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\安娜•卡列尼娜 (译文名著精选) - 列夫·托尔斯泰.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\安徒生童话 (译文名著精选) - 汉斯·克里斯蒂安·安徒生(Hans Christian Andersen).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\小妇人(译文名著精选) - 露易莎·梅·奥尔科特.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\少年维特的烦恼 (译文名著精选) - J.W.歌德(J.W.Goethe).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\巴黎圣母院(译文名著精选) - 雨果(Victor Hugo).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\希腊神话 (译文名著精选) - 尼·库恩.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\快乐王子 (双桅船经典童书爱藏版) - 奥斯卡·王尔德 (Oscar Wilde).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\悲惨世界(套装上下册) (译文名著精选) - 雨果.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\我是猫 (译文名著精选) - 夏目漱石.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\摩格街谋杀案(译文名著精选) - 埃德加·艾伦·坡 (Edgar Allan Poe).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\无名的裘德(译文名著精选) - 托马斯·哈代 (Thomas Hardy).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\格列佛游记 (译文名著精选) - 乔纳森·斯威夫特 (Jonathan Swift).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\格林童话(译文名著精选) - 雅各布·格林(Jacob Grimm) & 威廉·格林(Wilhelm Grimm).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\欧叶妮•格朗台 ＆ 高老头 (译文名著精选) - 巴尔扎克(Balzac.H.).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\死农奴(译文名著精选) - 果戈理(Gogol).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\永别了,武器 (译文名著精选) - 欧内斯特·海明威(E.Hemingway).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\汤姆•索亚历险记 (译文名著精选) - 马克·吐温(Mark Twain).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\泰戈尔抒情诗选 (译文名著精选) - 罗宾德拉纳特·泰戈尔 (Rabindranath Tagore).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\浮士德 (译文名著精选) - 歌德(Johann Wolfgang Von Goethe).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\海底两万里(译文名著精选) - 儒勒·凡尔纳 (Jules Verne).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\漂亮朋友 (译文名著精选) - 莫泊桑(Guy De Maupassant).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\牛虻 (译文名著精选) - 伏尼契(E.L.Voynich).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\猎人笔记 (译文名著精选) - 伊凡·屠格涅夫 (Ivan Turgeneve).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\王子与贫儿(译文名著精选) (译文名著文库) - 马克·吐温 (Mark Twain).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\玻璃球游戏 - 赫尔曼·黑塞(Hermann Hesse).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\理智与情感 (译文名著精选) - 简·奥斯丁(Jan Austen).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\瓦尔登湖 (译文名著精选) - 亨利·戴维·梭罗(Henry David Thoreau).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\白痴 - 陀思妥耶夫斯基.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\百万英镑_马克·吐温中短篇小说选(译文名著精选) - 马克·吐温.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\神曲 (译文名著精选) - 但丁·阿利吉耶里 (Dante Alighieri).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\福尔摩斯探案精选 (译文名著精选) - 柯南·道尔(Sir Arthur Conan Doyle).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\童年 在人间 我的大学 (译文名著精选) - 马克西姆·高尔基 (Maksim Gorky).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\简·爱 (译文名著精选) - 夏洛蒂·勃朗特 (Charlotte Bronte).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\红与黑 (译文名著精选) - 司汤达(Stendhal).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\红字 (译文名著精选) - 纳撒尼尔·霍桑(Nathaniel Hawthorne).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\罪与罚(译文名著精选) - 陀思妥耶夫斯基.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\羊脂球 (译文名著精选) - 莫泊桑(Guy De Maupassant).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\老人与海 (译文名著精选) - 欧内斯特·海明威(Ernest Hemingway).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\苔丝 (译文名著精选) - 托马斯·哈代(Thomas Hardy).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\茶花女 (译文名著精选) - 小仲马(Alexandre Dumas Fils).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\莎士比亚喜剧五种 (译文名著精选) - 威廉·莎士比亚 (William Shakespeare).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\莎士比亚四大悲剧 (译文名著精选) - 威廉·莎士比亚 (William Shakespeare).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\虹 (译文名著精选) - D.H.劳伦斯(D.H.Lawrence).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\被伤害与侮辱的人们(译文名著精选) - 陀思妥耶夫斯基.azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\达洛卫夫人 (译文名著精选) - 弗吉尼亚·伍尔夫(Virginia Woolf).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\远大前程 (译文名著精选) - 查尔斯·狄更斯(Charles Dickens).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\道连·葛雷的画像(译文名著精选) - 奥斯卡·王尔德(Oscar Wilde).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\金银岛·化身博士(译文名著精选) - 罗伯特·路易斯·斯蒂文森(Robert Louis Stevenson).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\钢铁是怎样炼成的(译文名著精选) - 尼古拉·奥斯特洛夫斯基 (Nikolai Ostrovsky).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\雾都孤儿 (译文名著精选) - 查尔斯·狄更斯 (Charles Dickens).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\青年艺术家画像（译文名著精选） - 詹姆斯·乔伊斯(James Joyce).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\马丁•伊登 (译文名著精选) - 杰克·伦敦(Jack London).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\魔山(译文名著文库) - 托马斯·曼 (Thomas Mann).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\鲁滨孙历险记 (译文名著精选) - 丹尼尔•笛福(Daniel Defoe).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\黑桃皇后_普希金中短篇小说选(译文名著精选) - 亚历山大·普希金(Aleksandr Pushkin).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\黑郁金香(译文名著文库) - 大仲马(Alexandre Dumas).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\鼠疫 (译文名著精选) - 阿尔贝·加缪(Albert Camus).azw3`
+- `F:/【01分类书籍】\kindle好书\kindle好书\kindle 04 译文名著精选 上海译文出版社 中亚正版  96本 mobi+azw3+epub\译文名著精选 上海译文出版社 96本 azw3\files.md`

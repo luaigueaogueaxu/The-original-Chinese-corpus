@@ -1,0 +1,87 @@
+# PDF魔术书籍集合
+
+## Files
+
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\2015 DD 纸牌侠 Card Men by Dan and Dave.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\2015 预测世界 Wi - Predict The World.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\2016中文 实用纸牌流程 两路相遇.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\2016中文翻译 TFMentalist 究极预言系统.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\2017纸牌魔术巅峰之作 每一张纸牌都孤独  胡凯伦推荐.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\3072；2016 火光 Fire Kit by Martin Braessas.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\52 Memories by Jack Parker.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\52.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\6052.中文翻译 骗魔术师的流程 Two More Tricks for Allen Kennedy.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\Above the Fold by Rich Aviles（中文翻译）.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\Decisions by Mozique.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\Don't touch my iphone by 李晨 D.T. 中文 完整版.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\It7think by Mental Tom&克哈德 iPhone魔术.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\Luke Jermay - Leading Reading 冠军冷读 中文版.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\ONLY THINK 超强想一张牌效果.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\Position Impossible by Brent Braun.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\The Sagacious Joker by Jordan中文版 以鬼之名.pdf.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\[刘谦的魔法签证][刘谦](2006).pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\[啊！败给魔术.PART2][刘谦](2005).pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\[男人必学的魔术][刘谦].pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\【1061】2013+刘谦与宋茜互动魔术+跨年春晚.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\【TFMentalist】 欣界 Sion 中文教学.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\【中文翻译】纸牌三巨头 by 连过九人.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\【几何学说】geometric by patrick redford.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\【双重现实】Dual Reality by Peter Turner.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\【欺诈师】by tsukasa mori.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\【灵数】Psy Number Intuiton by L.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\【神威】V by Manos Kartsakis.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\【细数繁星】Number The Stars by Willy Hsieh.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\【终极Fooler】by Ramon Rioboo 中文.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文 Steve Forte神级发中流程 Steve Forte Center Deal.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文 【油画布】Canvas by Sean Waters★.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文 手机秘密 Phone Mysteries by Gerard Zitta.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文 火柴头 Match Heads by Matt Mello.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文 魔术教学 Find the Lady by Daniel Madison.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文【信封出手机】Cellular Production.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文【冷读领域】Readings by Peter Turner.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文【秘术Cull】Close Culls by Harapan Ong.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译  不可能方法 Method Impossible by Steve Palmer.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译  直接命中 Direct by Bill Dekel.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 4 Minute spellbinder 蒙眼辨物.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 Bairm The Brain Children.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 Between The Lines by Annemann 字里行间 千言万字.pdf.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 chapter one 第一章.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 Taste Conditions by Morgan Strebler 味觉状况.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 The Portugal Notes - Peter Turner 葡萄牙笔记.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 Understanding Misdirection 错引实战技巧.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 【山羊魔法】Goats Grimoire by Jose Prager.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 小小世界 Small World by Patrick Redford.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 暴力强选哲学 Magician's Choice by Dani DaOrtiz.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 来自魔鬼的钥匙 The Ghost Key by Andrew Mayne.pdf.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 牌序系统 C10 by Dani DaOrtiz.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 纸牌手法魔术书籍 Put Your Hands Up by Yoann F.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 苹果酱 Applesauce by Patrick Redford.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 错引极致 暗影神偷 Apollo Robbins-HIS Watch.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译 龙舌兰欺诈师 Tequila Hustler by Mark Elsdon.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译The trick that cannot be explained 无法解释的魔术.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译意念催眠魔术教学 意念锁喉 即兴 魔术书籍.doc`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\中文翻译魔术教学Derren Brown 达伦布朗石头剪子布必胜法.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\冥想.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\变态记忆力 中文翻译魔术教学.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\另类找牌魔术教学 Pit Hartling - The Core 中文.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\天赐.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\山羊黑魔法Goats Grimoire by Jose Prager 全书中文翻译 高清版.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\想一张牌V1.1.apk`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\想一张牌教学.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\手机读心术 .pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\控制室 陈肖松.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\方法学说.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\明明能命中.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\最新舞台魔术道具制作 The Briefcase Illusion by Paul Romhany.pdf.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\谢幕.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\道具魔术教学 YIF 道具教学 YIF四叶草魔术教学 泡妞魔术教学.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\酒精作品 罗马时光1 by Peter Turner.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\顿悟.pdf`
+- `F:/【01分类书籍】\【04】其他分类大全\PDF魔术书籍集合\files.md`
+
+## Subdirectories
+
+- It7think by Mental Tom 克哈德 iPhone魔术
+- Juan Tamariz The Five Points In Magic 五点 全中文翻译书籍
+- 中文翻译 纸牌原动力 Paper Engine by Aaron Fisher
+- 中文翻译【声波魔法】Verbal Magic by Juan Tamariz

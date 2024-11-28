@@ -1,0 +1,92 @@
+# 混沌武士
+
+## Files
+
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - 1st samurai.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - 2 messages.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - 624 part1.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - 624 part2.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - a space in air in space in air [interlude].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - absolute.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - adapt myself.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - aruarian dance.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - ask.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Battlecry Remix (ft. Shing02) [Battlecry].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - battlecry.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - bracelet.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Breeezin'.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - chambers.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - dead season.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - death wish.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - decade [interlude].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - deeper than words.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Don't Stop [Vagrancy].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Dr. Feelgood [Tubed-Drum Please].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Dry.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Enjoy Yourself [Pretending To...].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - flip.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - FLY[SMALL CIRCLE OF FRIENDS].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - funkin.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - genome.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - haiku [interlude].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - here and there.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - High Speed Scratch Attack ft. (DJ FlipFlop) [Sneak Chamber].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Hiji Zuru STYLE(日出ズルSTYLE).mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - how you feel.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - I Sighed.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - in position.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Judgment On.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - just forget.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - kodama [interlude].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Labor Pains [In Position].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - labyrinth statistic.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - let me know what U think.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Loading Zone.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Mist.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - mists.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - mystline.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - New Dimension.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - night out.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - nightshift.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - no icon.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - no way back.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - not quite seleah.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Numbernine [Back in TYO].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - offers.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - ole.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Paranoid.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Pretending to....mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - process.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - QT [How You Feel].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Raw Material.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - reflective.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Sacrifice (ft. DJ Kool Herc) [World Without Words].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - sanctuary ship.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - set it off.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Seventythree[I Ask].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Silver Children.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - silver morning.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Sincerely.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Sneak Chamber.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Spark MY Soul Remix ft. Inverse, JsouL & Steph the Sapphic Songstress) [The Space Between Two Worlds].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - stay.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Still Think Different [Just Forget].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - stretch out.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - strike back.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - thank you.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - The Long Way of Drums.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - the million way of drum.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - the space between two world.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - the stroll.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - the updater.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - transcendence.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Tubed[Drum Please!!!].mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - tuned.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Vagrancy.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Various Artists.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - Who's Theme.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - world without words.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - yet_ why not_.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - YOU Feat.Kazami - Tsutchie.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\混沌武士 - 四季ノ唄.mp3`
+- `F:/【01分类书籍】\kindle好书\更新10\英文\混沌武士\files.md`
